@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayjah)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working mostly on mobile projects. This includes Flutter/Dart, Android/Java and iOS/Swift
-- 📫 How to reach me: jah@jayjah.de
+- 📫 How to reach me: jah@jayjah.de / https://playground-jayjah.jetbrains.space
 
 
 <!--
